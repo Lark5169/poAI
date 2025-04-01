@@ -1,1 +1,2 @@
-# poAI
+# Proof of AI
+(Proof of Concept)
